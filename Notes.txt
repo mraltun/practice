@@ -1,7 +1,0 @@
-<h1> Header with 1-6 </h1>
-
-<!-- Break line -->
-<br>
-
-<!-- Horizontal rule -->
-<hr>
